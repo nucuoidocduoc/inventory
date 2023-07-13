@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "base_web_api"
+version = "0.1.0"
+description = ""
+authors = ["Viktor <phuongnt@tuivietnam.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Flask = "2.0"
+debugpy = "^1.6.2"
+mysqlclient = "^2.1.1"
+SQLAlchemy = "^1.4.40"
+vakt = "^1.5.0"
+mongoengine = "^0.27.0"
+pyjwt = "^2.7.0"
+flask-jwt-extended = "^4.5.2"
+werkzeug = "^2.3.6"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

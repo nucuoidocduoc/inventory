@@ -1,0 +1,9 @@
+{
+    "actions": [],
+    "description": null,
+    "effect": "deny",
+    "uid": "1",
+    "resources": [],
+    "context": {},
+    "subjects": []
+}

@@ -1,0 +1,9 @@
+/api/__pycache__
+/api/.idea
+/api/.venv
+/api/.vscode
+/dashboard/__pycache__
+/dashboard/.idea
+/dashboard/.venv
+/dashboard/.vscode
+/dashboard/client/node_modules
